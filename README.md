@@ -13,7 +13,12 @@ If you roll a 1, your turn ends and your current score resets to 0.
 
 Press Hold to save your points to the total score and pass the turn.
 
+---
+
 The first player to reach 100 points wins!
+## 🚀 Live Demo
+
+Check out here: [Pig Dice Game](https://linnetdev.github.io/pig-dice-game/)
 
 ---
 
